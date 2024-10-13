@@ -35,3 +35,7 @@ L'application permet de réaliser les actions suivantes :
 6. **Afficher la liste des produits dont le prix est supérieur à 1000 DH**.
 7. **Afficher la liste des produits commandés entre deux dates spécifiques** saisies par l'utilisateur.
 
+## Démonstration 
+
+https://github.com/user-attachments/assets/6a99f3de-5d19-416b-b8d6-a3eccb9b60cf
+
